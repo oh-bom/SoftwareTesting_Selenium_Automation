@@ -11,11 +11,11 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class Assignment01 {
+public class Assignment03 {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		// Assignment01: 로그인 후, 모든 상품을 카트에 담는 예제 - explicit wait 활용
+		// Assignment03: 로그인 후, 모든 상품을 카트에 담는 예제 - explicit wait 활용
 		System.setProperty("webdriver.chrome.driver",
 				"/Users/ohbom/Downloads/chromedriver-mac-arm64_v133/chromedriver");
 
