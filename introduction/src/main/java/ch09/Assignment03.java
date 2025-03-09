@@ -52,7 +52,6 @@ public class Assignment03 {
 		
 		driver.findElement(By.xpath("//a[@class='nav-link btn btn-primary']")).click();
 		
-		
 	}
 
 }
