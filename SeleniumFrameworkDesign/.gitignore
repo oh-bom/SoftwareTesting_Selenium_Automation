@@ -27,3 +27,5 @@ out/
 # 환경설정 파일 (개인 PC 환경 차이 방지용)
 .env
 *.properties
+
+/test-output/
