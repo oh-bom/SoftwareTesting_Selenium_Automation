@@ -26,7 +26,7 @@ public class ProductCatalogue extends AbstractComponent {
 	@FindBy(css=".mb-3")
 	List<WebElement> products;
 	
-	@FindBy(css=".ng-animating")
+	@FindBy(css="ngx-spinner")
 	WebElement spinner;
 	
 	By productsBy= By.cssSelector(".mb-3");
