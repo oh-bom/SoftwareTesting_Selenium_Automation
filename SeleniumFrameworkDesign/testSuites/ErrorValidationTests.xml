@@ -6,12 +6,15 @@
 		<include name="ErrorHandling"/>
 	</run>
 </groups>
+<listeners>
+	<listener class-name="rahulshettyacademy.testComponents.Listeners"></listener>
+</listeners>
 
-  <test thread-count="5" name="Submit Order Test">
+<!--   <test thread-count="5" name="Submit Order Test">
     <classes>
       <class name="rahulshettyacademy.tests.SubmitOrderTest"/>
     </classes>
-  </test> 
+  </test>  -->
   
   <test thread-count="5" name="Error Validations Test">
     <classes>
