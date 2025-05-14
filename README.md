@@ -77,6 +77,12 @@ https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/
      <td>TestNG 기초 및 XML설정</td>
     <td>annotations-parameters, dataprovider, listeners, XML 커스텀</td>
   </tr>
+
+  <tr>
+  	<td>32</td>
+    <td>Chrome Dev Tools 이용한 실습 </td>
+    <td> Network mocking, requestFail, 에러 로그, 특정 URL 리퀘스트 차단 </td>
+  </tr>
     
 </table>
 
