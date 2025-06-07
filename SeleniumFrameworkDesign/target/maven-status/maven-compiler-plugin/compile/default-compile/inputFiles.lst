@@ -1,9 +1,0 @@
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/App.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/abstractComponents/AbstractComponent.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/CartPage.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/CheckoutPage.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ConfirmationPage.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/LandingPage.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/OrderPage.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/pageobjects/ProductCatalogue.java
-/Users/ohbom/git/SoftwareTesting_Selenium_Automation/SeleniumFrameworkDesign/src/main/java/rahulshettyacademy/resources/ExtentReporterNG.java
